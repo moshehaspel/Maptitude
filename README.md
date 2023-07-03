@@ -1,5 +1,5 @@
 # Maptitude
-Maptitude Plug-Ins
+Maptitude Add-Ins
 
 Do you like Caliper's Maptitude software? Me too! And that's why I've built some plug-ins to make Maptitude even more useful. 
 
